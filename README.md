@@ -1,18 +1,10 @@
-# JieBiFenDaShi
+# HongYunQiHuo
 
-JieBiFenDaShi is committed to promoting cycling equipment and cycling competitions, so that people can efficiently and high-quality buy cycling equipment they need in their daily life, learn more about cycling sports and cycling strategies, and record the scores and events of on-site cycling competitions.
+HongYunQiHuo is a platform for futures enthusiasts to learn, exchange and share, which contains the latest futures news, real-time express, futures general knowledge, events in the circle, industry information and other information within the circle, hot information everything, but also can get real-time information of various futures commodities, can make a reservation of futures related lectures.
 
-- Our app shows a full range of cycling sports equipment, including mountain bike, cycling protection, cycling bag, cycling backpack, cycling clothing and professional cycling shoes and other cycling sports equipment. These categories of complete cycling sports equipment can meet the user's choice and purchase.
+Our APP provides you with real-time quotes of various futures, so that you can better understand the market changes. You can also put forward your own opinions on hot news, you can share news information, you can collect your own valuable news, thumb up you think good articles.
 
-- Our app has classified these cycling sports equipment in great detail, which helps users to quickly find the cycling sports equipment they want to buy.
+Our APP also allows you to express your opinions on futures in the community, communicate with others and understand everyone's views on the market, so that you can have a more thorough understanding of this circle. At the same time, you can also book lectures on futures, so that you can have an in-depth understanding of futures prospects and development through these lectures.
 
-- Our app also has the function of commodity collection. Your favorite cycling sports equipment can be collected into the collection list for your next order.
-
-- Our APP gives a detailed and careful introduction to each product, so that you can fully understand these products, find your favorite cycling sports equipment, so that you can purchase and place orders, and you can also share the products with others.
-
-- Our app also launches the cycling guide function. You can learn various knowledge and strategies related to cycling on our app, so that you can understand and like cycling more.
-
-- Our app also has the function of on-the-spot race recording. You can record every cycling race with our app, and you can also share the race results with others.
-
-JieBiFenDaShi allows you to ride happily and safely, and easily record the scores of live RACES!
-If you have any questions, please contact us as follows :sbgvwh@163.com
+Get the latest futures information, discuss and exchange hot topics!
+If you have any questions, please contact us as follows :your_finance@icloud.com
