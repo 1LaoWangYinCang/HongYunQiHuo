@@ -1,10 +1,14 @@
-# HongYunQiHuo
+# Latest Digital Info Exchange
 
-HongYunQiHuo is a platform for futures enthusiasts to learn, exchange and share, which contains the latest futures news, real-time express, futures general knowledge, events in the circle, industry information and other information within the circle, hot information everything, but also can get real-time information of various futures commodities, can make a reservation of futures related lectures.
+Latest Digital Info Exchange is an app that allows people to quickly access, exchange and share digital currency news information. It has the latest news and hot information, so that you can quickly understand the industry information.
 
-Our APP provides you with real-time quotes of various futures, so that you can better understand the market changes. You can also put forward your own opinions on hot news, you can share news information, you can collect your own valuable news, thumb up you think good articles.
+-Our app provides you with the market information of various digital currencies, so that you can better understand the market changes.
 
-Our APP also allows you to express your opinions on futures in the community, communicate with others and understand everyone's views on the market, so that you can have a more thorough understanding of this circle. At the same time, you can also book lectures on futures, so that you can have an in-depth understanding of futures prospects and development through these lectures.
+-Our app allows you to put forward your own opinions on hot news information, share news information, collect valuable news and praise articles you think are good.
 
-Get the latest futures information, discuss and exchange hot topics!
-If you have any questions, please contact us as follows :your_finance@icloud.com
+-Our app allows you to express your opinions on digital currency in the community and exchange your ideas with others.
+
+-Our app allows you to book professional lectures, learn basic knowledge and better understand digital currency.
+
+Easily exchange the latest information of digital currency.
+If you have any questions, please contact us as follows :thaysheffqxa@hotmail.com
